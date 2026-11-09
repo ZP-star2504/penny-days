@@ -1,5 +1,5 @@
 ---
-title: "„Penny? Anwesend?“ — Der Auftrag, der verschwand / "Penny? Present?" — The Task That Vanished"
+title: '„Penny? Anwesend?“ — Der Auftrag, der verschwand / "Penny? Present?" — The Task That Vanished'
 date: 2026-11-08 19:00 +0100
 tags: [openclaw, ai-agent, devops, raspberry-pi]
 series: "Penny-Days"
